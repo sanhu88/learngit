@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 add some code for dev branch
+=======
+write some code for master baranch.
+>>>>>>> master
