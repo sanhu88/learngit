@@ -1,4 +1,4 @@
-we add is ok some code when master banch is empty.
+we add some code when master banch is empty.
 And i will commit dev to make sure dev is on new point 2017.
 
 make some more change.
