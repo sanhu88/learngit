@@ -1,7 +1,2 @@
-
-add some code for dev branch
-=======
-write some code for master baranch.
->>>>>>> master
-
-new code in dev
+we add some code when master banch is empty.
+And i will commit dev to make sure dev is on new point.
