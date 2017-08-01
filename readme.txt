@@ -7,3 +7,5 @@ Creating a new branch is quick and simple.add merge
 i developer some function here.
 i developer two extension now.
 
+test connect to github on 20170801
+
